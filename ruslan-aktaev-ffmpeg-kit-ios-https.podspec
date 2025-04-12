@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   # Link to the zip file on your GitHub release
   s.source = {
-    :http => 'https://github.com/RuslanAktaev/ffmpeg/releases/download/v6.0.1/bundle-apple-xcframework-ios.zip',
+    :http => 'https://github.com/RuslanAktaev/ffmpeg/releases/download/v6.0.2/bundle-apple-xcframework-ios.zip',
     :type => 'zip'
   }
   s.vendored_frameworks = [
