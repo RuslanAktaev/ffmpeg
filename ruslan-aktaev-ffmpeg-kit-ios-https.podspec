@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |s|
   s.name             = 'ruslan-aktaev-ffmpeg-kit-ios-https'
   s.version          = '6.0.2'
